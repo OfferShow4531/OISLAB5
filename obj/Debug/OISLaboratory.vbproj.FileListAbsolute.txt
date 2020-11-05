@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\bin\Debug\OISLaboratory.exe.config
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\bin\Debug\OISLaboratory.exe
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\bin\Debug\OISLaboratory.pdb
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\bin\Debug\OISLaboratory.xml
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\obj\Debug\OISLaboratory.vbprojAssemblyReference.cache
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\obj\Debug\OISLaboratory.Form1.resources
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\obj\Debug\OISLaboratory.Resources.resources
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\obj\Debug\OISLaboratory.vbproj.GenerateResource.cache
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\obj\Debug\OISLaboratory.vbproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\obj\Debug\OISLaboratory.exe
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\obj\Debug\OISLaboratory.xml
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\obj\Debug\OISLaboratory.pdb
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\obj\Debug\OISLaboratory.АптекаBindingSource.resources
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\obj\Debug\OISLaboratory.Доставка.resources
+C:\Users\user\source\repos\OISLaboratory\OISLaboratory\obj\Debug\OISLaboratory.Склад.resources
